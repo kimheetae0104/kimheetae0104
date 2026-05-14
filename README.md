@@ -1,9 +1,4 @@
-<h1 align="center">👋 안녕하세요, 김희태입니다</h1>
-
-<p align="center">
-  <b>AI Agent Developer · Python · TypeScript</b><br/>
-  LLM 기반 자동화 시스템과 데이터 파이프라인을 설계합니다
-</p>
+<h1 align="center">김희태 · AI Agent Developer</h1>
 
 <p align="center">
   <a href="https://gimhuitae-portfolio.vercel.app" target="_blank">
@@ -13,6 +8,18 @@
     <img src="https://img.shields.io/badge/CardNews_SaaS-4F46E5?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
+
+<br/>
+
+> **"LLM을 사용하는 것과, LLM이 오작동했을 때 시스템이 스스로 복구하도록 설계하는 것은 다른 문제입니다."**
+
+저는 LLM 기반 자동화 시스템을 **프로덕션 수준**으로 설계하는 데 집중합니다.
+
+- 매일 15:40, 상한가 종목을 감지하고 DART 공시를 크롤링해 블로그 초안을 쓰고, 팩트체크를 통과한 글만 네이버에 발행하는 **완전 자동화 파이프라인**을 운영 중입니다
+- LLM이 잘못된 수치를 생성했을 때 DART 원본 데이터와 대조해 오류를 탐지하고 자동 교정하는 **환각 감지 시스템**을 직접 구현했습니다
+- "AI로 무언가를 만든다"보다 **AI가 실패하는 지점을 예측하고 격리하는 설계**에 더 관심이 있습니다
+
+현재 관심 영역: `LLM Orchestration` `Agentic Pipeline` `Fact-Checking` `Production AI`
 
 ---
 
